@@ -2,10 +2,11 @@ import java.util.List;
 import java.util.LinkedList;
 import java.util.HashMap;
 import java.util.Scanner;
-import java.util.concurrent.ThreadLocalRandom
+import java.util.concurrent.ThreadLocalRandom;
 
 public class Base {
     static void generateRandomLinkedList(Integer n) {
+
 
 
 
